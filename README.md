@@ -2,7 +2,7 @@
 
 ## Note
 - A job classification list, provided for future reference and use in job searching.
-- The rankings inside are based on my **personal perspective**, for your reference.
+- The rankings inside are based on my **personal perspective**.
 - It is primarily divided into two main topics, the first one is **local** employment, and the other is **relocation**.
 
 ## structure
