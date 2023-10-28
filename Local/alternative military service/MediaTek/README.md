@@ -1,4 +1,4 @@
-# [2024 Advanced Offer (AO) and R&D Substitute Service Program (RDSS)](https://careers.tsmc.com/zh_TW/careers/JobDetail/2024-RDSS-AO/559)
+# [2024 Advanced Offer (AO) and R&D Substitute Service Program (RDSS)](https://careers.mediatek.com/eREC/JobSearch?sortBy=&order=&page=1&searchKey=%E7%A0%94%E7%99%BC%E6%9B%BF%E4%BB%A3%E5%BD%B9&category=&workExp=&branch=&program=)
 
 ## About
 2024校招:
