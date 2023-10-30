@@ -19,11 +19,11 @@
  |               └── ...    
  |    
  └─── Relocation
-          ├─── Tier 0        
+          ├─── USA       
           |      └── Google, Meta, ...
-          ├─── Tier 1
+          ├─── UK
           |      └── ...
-          └─── Tier 2
+          └─── JAPAN
                  └── ...       
 ```
 
